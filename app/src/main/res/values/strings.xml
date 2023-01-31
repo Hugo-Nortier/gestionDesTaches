@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">EncoreUnProjet</string>
+    <string name="title_home">Home</string>
+    <string name="welcome">Bienvenue!</string>
+    <string name="connection">"Vous n\'êtes pas connecté!\nLes opérations seront effectuées uniquement en local."</string>
+    <string name="taskCount">""</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_addTodo">Ajouter un todo</string>
+    <string name="title_list">Liste des todos</string>
+    <string name="titreAddTodo">Nouveau Todo</string>
+    <string name="titreEditTodo">Edition Todo</string>
+    <string name="titreListeTodos">Liste des Todos</string>
+    <string name="todoName">Titre *</string>
+    <string name="description">Description *</string>
+    <string name="requestedBy">Demandé par *</string>
+    <string name="assignee">Assigné à *</string>
+    <string name="dueDate">Date limite *</string>
+    <string name="creertodo">Créer</string>
+    <string name="detail">Details Todo</string>
+    <string name="partager_un_todo">Partager un todo</string>
+    <string name="supprimer_un_todo">Supprimer un todo</string>
+    <string name="terminer_un_todo">Terminer un todo</string>
+</resources>

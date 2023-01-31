@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context=".ui.home.HomeFragment"
+    android:orientation="vertical"
+    android:padding="20dp">
+        <TextView
+            android:text="@string/welcome"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textSize="40sp"
+            android:textColor="@color/teal_700"
+            android:layout_marginTop="10dp"/>
+        <TextView
+            android:id="@+id/desc_home"
+            android:text="@string/taskCount"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textSize="17sp"
+            android:textColor="@color/teal_700"
+            android:layout_marginTop="20dp"/>
+
+        <TextView
+            android:id="@+id/connecte"
+            android:text="@string/connection"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textSize="17sp"
+            android:textColor="@color/red"
+            android:visibility="invisible"
+            android:layout_marginTop="20dp"/>
+
+</LinearLayout>
